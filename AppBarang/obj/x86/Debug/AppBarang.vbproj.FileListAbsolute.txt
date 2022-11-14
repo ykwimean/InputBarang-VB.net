@@ -1,0 +1,11 @@
+F:\VisualStudio\Project\AppBarang\AppBarang\bin\Debug\barang.accdb
+F:\VisualStudio\Project\AppBarang\AppBarang\bin\Debug\AppBarang.exe.config
+F:\VisualStudio\Project\AppBarang\AppBarang\bin\Debug\AppBarang.exe
+F:\VisualStudio\Project\AppBarang\AppBarang\bin\Debug\AppBarang.pdb
+F:\VisualStudio\Project\AppBarang\AppBarang\bin\Debug\AppBarang.xml
+F:\VisualStudio\Project\AppBarang\AppBarang\obj\x86\Debug\AppBarang.FrmBarang.resources
+F:\VisualStudio\Project\AppBarang\AppBarang\obj\x86\Debug\AppBarang.Resources.resources
+F:\VisualStudio\Project\AppBarang\AppBarang\obj\x86\Debug\AppBarang.vbproj.GenerateResource.Cache
+F:\VisualStudio\Project\AppBarang\AppBarang\obj\x86\Debug\AppBarang.exe
+F:\VisualStudio\Project\AppBarang\AppBarang\obj\x86\Debug\AppBarang.xml
+F:\VisualStudio\Project\AppBarang\AppBarang\obj\x86\Debug\AppBarang.pdb
